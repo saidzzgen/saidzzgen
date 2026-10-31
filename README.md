@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=900&color=00FF9C&center=true&vCenter=true&repeat=true&width=435&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Saidzzgen;Mathematics+%26+Cyber+Security;Enthusiast" alt="Saidzzgen" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=900&color=00FF9C&center=true&vCenter=true&repeat=true&width=520&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Saidzzgen;Mathematics+%26+Cyber+Security;Enthusiast" alt="Saidzzgen" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=435&lines=Learning+%7C+Breaking+%7C+Building;Math+is+the+language%2C+security+is+the+game" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=520&lines=Learning+%7C+Breaking+%7C+Building;Math+is+the+language%2C+security+is+the+game" alt="tagline" />
 
 <br/>
 
